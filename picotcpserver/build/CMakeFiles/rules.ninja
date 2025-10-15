@@ -134,7 +134,7 @@ rule ASM_COMPILER__bs2_default_library_unscanned_Release
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\Users\Matt\.pico-sdk\cmake\v3.31.5\bin\cmake.exe --regenerate-during-build -SC:\Users\Matt\Desktop\networks\picotcpserver -BC:\Users\Matt\Desktop\networks\picotcpserver\build
+  command = C:\Users\Matt\.pico-sdk\cmake\v3.31.5\bin\cmake.exe --regenerate-during-build -SC:\Users\Matt\Desktop\networks\ComputerNetworks_WifiPrototype\picotcpserver -BC:\Users\Matt\Desktop\networks\ComputerNetworks_WifiPrototype\picotcpserver\build
   description = Re-running CMake...
   generator = 1
 

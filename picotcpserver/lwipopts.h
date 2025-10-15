@@ -53,6 +53,11 @@
 #define LWIP_NETIF_TX_SINGLE_PBUF   1
 #define DHCP_DOES_ARP_CHECK         0
 #define LWIP_DHCP_DOES_ACD_CHECK    0
+//added for DHCP server
+#define LWIP_DHCP_SERVER            1
+#define IP_FORWARD                  0
+#define LWIP_NETIF_HOSTNAME         1
+#define LWIP_NETIF_STATUS_CALLBACK  1
 
 #ifndef NDEBUG
 #define LWIP_DEBUG                  1
