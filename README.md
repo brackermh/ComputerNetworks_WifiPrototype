@@ -1,4 +1,5 @@
-# ComputerNetworks_WifiPrototype
+# Group 3: ComputerNetworks_WifiPrototype
+Chance Besancenez, Matt Bracker, Laurel Leuwerke
 A prototype client-server connection over IEEE 802.11 setup on Raspberry Pi 2 W hardware.
 
   **Resources**
