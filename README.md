@@ -1,10 +1,11 @@
 # Group 3: ComputerNetworks_WifiPrototype
 Chance Besancenez, Matt Bracker, Laurel Leuwerke
 
+**Description:**
 A prototype client-server connection over IEEE 802.11 setup on Raspberry Pi 2 W hardware.
 
 
-  **Resources**
+  **Resources:**
 
   
     https://www.raspberrypi.com/documentation/pico-sdk/networking.html#group_pico_lwip
