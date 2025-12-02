@@ -2,7 +2,7 @@
 Chance Besancenez, Matt Bracker, Laurel Leuwerke
 
 **Description:**
-A prototype client-server connection over IEEE 802.11 setup on Raspberry Pi 2 W hardware.
+A prototype client-server connection over IEEE 802.11 setup on Raspberry Pi Zero 2 W hardware.
 
 
   **Resources:**
